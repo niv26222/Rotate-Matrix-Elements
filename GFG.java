@@ -10,8 +10,7 @@ class GFG
     // A function to rotate a matrix  
     // mat[][] of size R x C. 
     // Initially, m = R and n = C 
-    static void rotatematrix(int m, 
-                    int n, int mat[][]) 
+    static void rotatematrix(int m, int n, int mat[][]) 
     { 
         int row = 0, col = 0; 
         int prev, curr; 
